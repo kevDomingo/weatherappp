@@ -1,6 +1,6 @@
 {
   "homepage": "http://kevDomingo.github.io/weatherapp",
-  "name": "my-app",
+  "name": "weatherapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
